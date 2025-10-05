@@ -71,7 +71,7 @@
 # By the way — these lines starting with the `#` character? They're called
 # comments. They don't get run by Python — they're just for me to talk to you.
 # You can create one yourself if you like.
-
+# Rebecca
 # Type your name as a comment on the next line.
 
 # Hint: if you're on a Mac, type opt + 3 to get a #
